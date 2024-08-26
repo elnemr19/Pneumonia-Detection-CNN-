@@ -41,17 +41,26 @@ I also do **SMOTE** in training data to solve the problem of implanced data.
 ## 5. Model Overview
 
 -i used CNN with 12 layers :
+
 -6 Convolutional Layers : used to extract the feature from the image .
+
 -3 MaxPooling Layers (2X2) :Downsample the feature maps.
+
 -3 Dropout Layers (Dropout): Regularization layers to **prevent overfitting**.
+
 -1 Flatten Layer (Flatten): Converts 2D feature maps into a 1D vector.
+
 -2 Dense Layers (Dense): Fully connected layers for final classification.
 
 
 -The model is compiled using the Adam optimizer with a learning rate of 1e-4.
+
 -The loss function is binary_crossentropy, appropriate for binary classification.
+
 -The model's performance is measured by the accuracy metric.
+
 -**L2 Regularization**:L2 regularization is a technique used to prevent overfitting by adding a penalty to the loss function, which discourages the model from learning overly complex or large weights.
+
 -An **EarlyStopping** callback is defined to stop training if the validation loss doesn't improve for 5 consecutive epochs, restoring the best model weights.
 
 
