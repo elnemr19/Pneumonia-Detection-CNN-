@@ -18,7 +18,7 @@ The normal chest X-ray (left panel) depicts clear lungs without any areas of abn
 
 [Results]()
 
-[Deployment]()
+[Deployment](https://github.com/elnemr19/Pneumonia-Detection-CNN-/blob/main/README.md#7-deployment)
 
 ## 3. Dataset
 
@@ -61,12 +61,15 @@ I also do **SMOTE** in training data to solve the problem of implanced data.
 -my model accuracy is 93 % in training , 87 % in testing .
 
 - Confusion Matrix
+
+
   ![image](https://github.com/user-attachments/assets/0712168e-a358-4e37-a3e6-2dc82fc379dd)
 
 
-  - Classification Report
-    ![image](https://github.com/user-attachments/assets/593c9b20-3597-4629-b68d-4992edf896d0)
+- Classification Report
+ 
 
+    ![image](https://github.com/user-attachments/assets/593c9b20-3597-4629-b68d-4992edf896d0)
 
 
 
