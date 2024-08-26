@@ -81,6 +81,7 @@ I also do **SMOTE** in training data to solve the problem of implanced data.
 - in this phas i ask the user to give me an image ,and i preprocess it ,and the model predict its class
 
 - i used **gradio** :
+- link : https://599ff9fbeb9a9d450f.gradio.live
 ![image](https://github.com/user-attachments/assets/33a292f5-3285-45f3-8e20-c9909a8bda49)
 
 
