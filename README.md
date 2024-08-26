@@ -10,7 +10,7 @@ The normal chest X-ray (left panel) depicts clear lungs without any areas of abn
 
 ## 2. Table of Contents
 
-[Dataset]()
+[Dataset](https://github.com/elnemr19/Pneumonia-Detection-CNN-/tree/main?tab=readme-ov-file#3-dataset)
 
 [Model Overview]()
 
@@ -21,6 +21,11 @@ The normal chest X-ray (left panel) depicts clear lungs without any areas of abn
 ## 3. Dataset
 
 
+## 4. Model Overview
 
+
+
+
+## 5. Result
 
 
